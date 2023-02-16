@@ -1,0 +1,2 @@
+#!/bkin/bash
+echo $(($POWER/$DIVIDE))
